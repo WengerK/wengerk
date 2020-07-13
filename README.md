@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hey, I'm Kevin ! 👋
 
-<!--
-**WengerK/wengerk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤓 Open Source Advocate at [@Antistatique](https://github.com/antistatique/) <br>
+🇨🇭 Living in Lausanne, Switzerland <br>
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💧 Maintaining many [Drupal modules](https://www.drupal.org/u/wengerk) <br>
+🐳 Currently working on Docker image(s) to ease Drupal contributions - [Docker for Drupal contributions](https://github.com/WengerK/docker-drupal-for-contrib) <br> 
+📚 Writing articles about code or developer ethics <br>
+🍿 Organizing the next Webmardi event - http://webmardi.ch <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](http://kevin-wenger.ch/) <br>
+🐦 [Twitter](https://twitter.com/wengerk) <br>
+🚧 [Stackoverflow](https://stackoverflow.com/users/4770218/kevin-wenger) <br>
+💻 [Dev.to](https://dev.to/wengerk) <br>
+📚 [Medium](https://medium.com/@wengerk) <br>
+📸 [Instagram](https://instagram.com/wengerk) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/kevinwenger) <br>
