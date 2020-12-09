@@ -6,8 +6,10 @@
 ### What I'm working on 👨‍💻
 
 💧 Maintaining many [Drupal modules](https://www.drupal.org/u/wengerk) <br>
-🐳 Currently working on Docker image(s) to ease Drupal contributions - [Docker for Drupal contributions](https://github.com/WengerK/docker-drupal-for-contrib) <br> 
-📚 Writing articles about code or developer ethics <br>
+🐳 Author of [Docker for Drupal contributions](https://github.com/WengerK/docker-drupal-for-contrib) - a Docker image to ease Drupal contributions <br> 
+💎 Maintainer of [Capdrupal](https://github.com/antistatique/capdrupal) - a [Capistrano](https://github.com/capistrano/capistrano) Gem for deploying & managing Drupal projects <br> 
+
+📚 Writing articles about code or developer ethics - https://wengerk.medium.com/ <br>
 🍿 Organizing the next Webmardi event - http://webmardi.ch <br>
 
 ### Find me elsewhere 🌎
