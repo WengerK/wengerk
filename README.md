@@ -15,6 +15,7 @@
 🐳 Author of [Docker for Drupal contributions](https://github.com/WengerK/docker-drupal-for-contrib) - a Docker image to ease Drupal contributions <br> 
 💎 Maintainer of [Capdrupal](https://github.com/antistatique/capdrupal) - a [Capistrano](https://github.com/capistrano/capistrano) Gem for deploying & managing Drupal projects <br> 
 🔖 Creator of [Highlight Bad Chars](https://github.com/WengerK/vscode-highlight-bad-chars) VSCode extension <br>
+👾 Main contributor of [Swiss Games Garden](https://github.com/games-of-Switzerland/) - an Open Source project that aims to allow the exploration of the vast jungle of Swiss video games while encouraging data saving<br>
 
 📚 Writing articles about code or developer ethics - https://wengerk.medium.com/ <br>
 🍿 Organizing the next Webmardi event - http://webmardi.ch <br>
