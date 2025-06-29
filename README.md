@@ -11,7 +11,7 @@
 
 ### What I'm working on 👨‍💻
 
-🎮 Lead Developer & creator of [Respawwwn](https://respawwwn.com/) - a daily gaming challenge platform. Players identify video-games from  360° panoramas, videos, screenshots, or iconic sounds.
+🎮 Lead Developer & creator of [Respawwwn](https://respawwwn.com/) - a daily gaming challenge platform. Players identify video-games from  360° panoramas, videos, screenshots, or iconic sounds. <br>
 💧 Maintaining many [Drupal modules](https://www.drupal.org/u/wengerk) <br>
 🐳 Author of [Docker for Drupal contributions](https://github.com/WengerK/docker-drupal-for-contrib) - a Docker image to ease Drupal contributions <br> 
 💎 Maintainer of [Capdrupal](https://github.com/antistatique/capdrupal) - a [Capistrano](https://github.com/capistrano/capistrano) Gem for deploying & managing Drupal projects <br> 
