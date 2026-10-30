@@ -1,6 +1,6 @@
 ### Hey, I'm Kevin ! 👋
 
-🤓 Open Source Advocate at [@Antistatique](https://github.com/antistatique/) <br>
+🤓 Senior Backend Developer & Tech Lead at [@Antistatique](https://github.com/antistatique/) <br>
 🧑🏼‍🏫 Teaching code related materials at [Media Engineering Institute (@MEI)](https://github.com/MediaComem) <br>
 🇨🇭 Living in Lausanne, Switzerland <br>
 🕸 I’m currently learning "How to properly teach code" <br>
@@ -17,14 +17,15 @@
 💎 Maintainer of [Capdrupal](https://github.com/antistatique/capdrupal) - a [Capistrano](https://github.com/capistrano/capistrano) Gem for deploying & managing Drupal projects <br> 
 🔖 Creator of [Highlight Bad Chars](https://github.com/WengerK/vscode-highlight-bad-chars) VSCode extension <br>
 👾 Main contributor of [Swiss Games Garden](https://github.com/games-of-Switzerland/) - an Open Source project that aims to allow the exploration of the vast jungle of Swiss video games while encouraging data saving<br>
+🌌 Creator of [Swiss Games Universe](https://universe.swissgames.garden) - Navigate through every Swiss video game: each one is a unique constellation shaped by its creator and DNA.<br>
 
-📚 Writing articles about code or developer ethics - https://wengerk.medium.com/ <br>
-🍿 Organizing the next Webmardi event - http://webmardi.ch <br>
+📚 Writing articles about code or developer ethics - [Medium](https://wengerk.medium.com) <br>
+🍿 Organizing the next Webmardi event - [Webmardi](http://webmardi.ch) <br>
 
 ### Find me elsewhere 🌎
 
-🚀 [Site](http://kevin-wenger.ch/) <br>
-𝕏  [Twitter](https://twitter.com/wengerk) <br>
+🚀 [Website](http://kevin-wenger.ch/) <br>
+𝕏  [X](https://x.com/wengerk) <br>
 🚧 [Stackoverflow](https://stackoverflow.com/users/4770218/kevin-wenger) <br>
 💻 [Dev.to](https://dev.to/wengerk) <br>
 📚 [Medium](https://medium.com/@wengerk) <br>
