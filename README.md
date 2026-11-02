@@ -3,7 +3,7 @@
 🤓 Senior Backend Developer & Tech Lead at [@Antistatique](https://github.com/antistatique/) <br>
 🧑🏼‍🏫 Teaching code related materials at [Media Engineering Institute (@MEI)](https://github.com/MediaComem) <br>
 🇨🇭 Living in Lausanne, Switzerland <br>
-🕸 I’m currently learning "How to properly teach code" <br>
+🕸 I’m currently learning Rust 🦀 <br>
 🤔 I’m looking for help with my community projects <br>
 💬 Ask me about PHP, Symfony, Elasticsearch, API Platform and Drupal <br>
 😄 Pronouns: He/Him <br>
